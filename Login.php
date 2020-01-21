@@ -8,6 +8,8 @@
     $loginUser = $_POST["loginUser_from_unity"];
 
     $sql = "SELECT Username,Password, id FROM user_log_info WHERE Username = '" . $loginUser . "'";
+    echo $loginPass."\n";
+    echo $loginUser."\n";
 
     $result = $conn->query($sql);
 
