@@ -5,7 +5,7 @@
     // $password = "66436645a";
     // $dbname = "acc";
     // $servername = "sql209.gigfa.com";
-    $host = "sql209.gigfa.com";
+    $host = "http://acc110.gigfa.com/sql209.gigfa.com";
     $servername = "gigfa_25035837";
     $username = "gigfa_25035837";
     $password = "m110o880";
